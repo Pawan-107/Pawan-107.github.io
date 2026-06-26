@@ -20,8 +20,8 @@ This repository contains my daily industrial training diary. It documents the co
 | ---------------------- | -------------------------------------------- | ---------- |
 | [Day 1](Week1/Day1.md) | Python Basics and Operators                  | 22/06/2026 |
 | [Day 2](Week1/Day2.md) | Operators, Conditional Statements, and Loops | 23/06/2026 |
-| [Day 3](Week1/Day3.md)                  | While Loops and Functions in Python | 24/06/2026 |
-| Day 4                  | To Be Updated                                | 25/06/2026 |
+| [Day 3](Week1/Day3.md) | While Loops and Functions in Python | 24/06/2026 |
+| [Day 4](Week1/Day4.md) | Function Arguments, Recursion, and Lists | 25/06/2026 |
 | Day 5                  | To Be Updated                                | 26/06/2026 |
 
 ### Week 2
